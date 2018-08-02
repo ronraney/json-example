@@ -1,0 +1,8 @@
+{
+"students":[
+    {"firstName":"John", "lastName":"Doe", "subject":"Math"}, 
+    {"firstName":"Exene", "lastName":"Cervanka", "subject":"English"},
+    {"firstName":"Billy", "lastName":"Zoom", "subject":"Science"},
+    {"firstName":"D.J.", "lastName":"Bonebrake", "subject":"Math"}
+]
+}
